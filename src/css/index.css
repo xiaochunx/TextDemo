@@ -1,6 +1,11 @@
 .a {
   color: red;
 }
+#btn {
+  background: skyblue;
+  width: 100px;
+  height: 40px;
+}
 .carousel-inner {
   border: 1px solid #000;
 }

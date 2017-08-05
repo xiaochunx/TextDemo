@@ -17,6 +17,7 @@ function zzz() {
 
 
 
-console.log(zzz());
-console.log(zzz());
+document.getElementById("btn").onclick = function () {
+    alert(this.value);
+};
 

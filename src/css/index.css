@@ -6,6 +6,28 @@
   width: 100px;
   height: 40px;
 }
+ul {
+  width: 600px;
+  margin: 0 auto;
+}
+li {
+  list-style: none;
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: orangered;
+  margin-left: 5px;
+  margin-top: 5px;
+  border: 5px solid #000;
+  line-height: 100px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+ul li:hover {
+  background: #e0e0e0;
+  color: #0f0f0f;
+}
 .carousel-inner {
   border: 1px solid #000;
 }

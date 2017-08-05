@@ -1,0 +1,1 @@
+function zzz(){return 0}console.log(zzz()),console.log(zzz());

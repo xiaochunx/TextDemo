@@ -1,0 +1,20 @@
+{
+  "name": "share",
+  "description": "Text..",
+  "main": "index.js",
+  "authors": [
+    "codeLittleNewbie <935814110@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/xiaochunx/TextDemo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

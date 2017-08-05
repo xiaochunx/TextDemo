@@ -1,0 +1,1 @@
+function xxx(){return 222}console.log(xxx());

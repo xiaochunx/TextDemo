@@ -1,1 +1,1 @@
-function xxx(){return 222}console.log(xxx());
+function xxx(){return 222}function zzz(){return 0}console.log(xxx()),console.log(zzz()),console.log(zzz());
